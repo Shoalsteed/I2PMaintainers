@@ -2,6 +2,23 @@
 
 Compiling a list of resources for I2P Maintainers
 
+## Links to Documents
+
+ - TODO: link to build instructions(idk)
+ - TODO: figure out who wrote down the whole IzPack rigamarole and link to/mirror it(idk)
+
+## Essential Material Resources
+
+ - Java 7 Bootclasspath for Android - TODO: I need to mirror this(idk)
+ - Deprecated `ant` tasks for `maven` - TODO: I need to mirror this(idk)
+
+## Hosting Tools
+
+ - https://github.com/eyedeekay/reposam - Debian binary package hosting tools, similar to a "Personal Package Archive." Selfhosts inside of I2P automatically.
+
+## Mirroring Tools
+
+ - TODO: document usage of apt-mirror, go-apt-utils over proxy or tunnel to set up mirors over I2P(idk)
 
 ## Wierd Mirrors
 
