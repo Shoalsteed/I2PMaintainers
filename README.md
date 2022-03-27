@@ -6,6 +6,7 @@ Compiling a list of resources for I2P Maintainers
 
  - TODO: link to build instructions(idk)
  - TODO: figure out who wrote down the whole IzPack rigamarole and link to/mirror it(idk)
+ - [Debian/Ubuntu Dev Build Generator](https://github.com/eyedeekay/debuntu-dev/), [Log viewer](https://eyedeekay.github.io/debuntu-dev/)
 
 ## Essential Material Resources
 
