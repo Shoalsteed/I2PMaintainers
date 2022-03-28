@@ -6,6 +6,7 @@ Compiling a list of resources for I2P Maintainers
 
  - TODO: link to build instructions(idk)
  - TODO: figure out who wrote down the whole IzPack rigamarole and link to/mirror it(idk)
+ - [End-to-End guide to selfhosting I2P Dev builds](https://eyedeekay.github.io/Hopefully-Holistic-Guide-to-I2P-Dev-Build-Update-Hosting/)([source](https://github.com/eyedeekay/Hopefully-Holistic-Guide-to-I2P-Dev-Build-Update-Hosting))
 
 ## Essential Material Resources
 
